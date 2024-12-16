@@ -1,0 +1,22 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "Common js modules ===",
+  "main": "names.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node names.js",
+    "watch": "node --watch names.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-martinetti/node-commonjs-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-martinetti/node-commonjs-modules/issues"
+  },
+  "homepage": "https://github.com/l-martinetti/node-commonjs-modules#readme"
+}
