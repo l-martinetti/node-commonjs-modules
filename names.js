@@ -1,9 +1,9 @@
 
-function printNames (firstName, lastName) {
+function printName (firstName, lastName) {
     return {firstName, lastName};
 }
 
-module.exports = printNames;
+module.exports = printName;
 
 
 
