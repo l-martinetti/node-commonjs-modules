@@ -1,10 +1,9 @@
 
-function stampNames (firstName, lastName) {
-    let name = {
-        firstName,
-        lastName
-    };   
-    return name;
+function printNames (firstName, lastName) {
+    return {firstName, lastName};
 };
 
-module.exports = stampNames;
+module.exports = printNames;
+
+
+
